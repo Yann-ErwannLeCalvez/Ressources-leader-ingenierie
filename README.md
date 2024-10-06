@@ -1,4 +1,4 @@
-# 400+ Ressources pour devenir un excellent leader en ingénierie
+# +400 Ressources pour devenir un excellent leader en ingénierie [ENG]
 
 **Liste de livres, newsletters, personnalités et plus encore !**
 
