@@ -1,5 +1,3 @@
-# Ressources-leader-ingenierie
-
 # 400+ Ressources pour devenir un excellent leader en ingénierie
 
 **Liste de livres, newsletters, personnalités et plus encore !**
@@ -20,15 +18,15 @@ Important : Avant de plonger dans une ressource particulière, je vous recommand
 
 **Liste de livre**
 
-- Designing Data-Intensive Applications by Martin Kleppmann
-- System Design Interview by Alex Xu
-- Patterns of Enterprise Application Architecture by Martin Fowler
-- Understanding Distirbuted Systems by Roberto Vitillo
-- Clean Architecture by Robert C. Martin
-- Systems Analysis and Design, multiple editions and multiple authors
-- Building Microservices: Designing Fine-Grained Systems by Sam Newman
-- Fundamentals of Software Architecture by Neal Ford and Mark Richards
-- Software Architecture: The Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani
+- [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.fr/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321/)
+- [System Design Interview by Alex Xu](https://www.amazon.fr/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+- [Patterns of Enterprise Application Architecture by Martin Fowler](https://www.amazon.fr/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- [Understanding Distirbuted Systems by Roberto Vitillo](https://www.amazon.fr/Understanding-Distributed-Systems-Second-applications/dp/1838430210/)
+- [Clean Architecture by Robert C. Martin](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
+- [Systems Analysis and Design by Scott Tilley](https://www.amazon.fr/Systems-Analysis-Design-Scott-Tilley/dp/0357117816/)
+- [Building Microservices: Designing Fine-Grained Systems by Sam Newman](https://www.amazon.fr/Building-Microservices-Designing-Fine-grained-Systems/dp/1492034029/)
+- [Fundamentals of Software Architecture by Neal Ford and Mark Richards](https://www.amazon.fr/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/)
+- [Software Architecture: The Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani](https://www.amazon.fr/Software-Architecture-Trade-off-Distributed-Architectures/dp/1492086894/)
 
 **Liste de blog**
 
@@ -69,7 +67,6 @@ Important : Avant de plonger dans une ressource particulière, je vous recommand
 **Personnes à suivre sur LinkedIn**
 
 - [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
-- [Alex Nguyen](https://www.linkedin.com/in/alexcancode/)
 - [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
 - [Raul Junco](https://www.linkedin.com/in/raul-junco/)
 - [Saurabh Dashora](https://www.linkedin.com/in/saurabh-dashora/)
